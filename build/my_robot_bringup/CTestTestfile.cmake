@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: /home/jay/ros2_ws/src/my_robot_bringup
-# Build directory: /home/jay/ros2_ws/build/my_robot_bringup
+# Source directory: /home/jay/mini_ws2/src/my_robot_bringup
+# Build directory: /home/jay/mini_ws2/build/my_robot_bringup
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.

@@ -1,1 +1,1 @@
-/home/jay/ros2_ws/src/my_robot_description/launch/display.launch.py
+/home/jay/mini_ws2/src/my_robot_description/launch/display.launch.py

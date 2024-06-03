@@ -1,1 +1,1 @@
-/home/jay/ros2_ws/build/my_robot_description/ament_cmake_core/my_robot_descriptionConfig-version.cmake
+/home/jay/mini_ws2/build/my_robot_description/ament_cmake_core/my_robot_descriptionConfig-version.cmake
