@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/jay/mini_ws2/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/jay/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/jay/mini_ws2/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/jay/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
