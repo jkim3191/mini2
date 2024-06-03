@@ -1,2 +1,1 @@
-# mini
-lecture
+# mini2
